@@ -48,7 +48,7 @@ Med hjälp av streams, räkna ut:
 
 Skapa en egen annotation, och annotera något med din nya annotation.
 
-Förklara i en kommentar i ditt program (yay för snygga lösningar)
+Förklara i en kommentar i ditt program (yay för snygga lösningar) vad den inbyggda annotationen @Override är för något - var/när används den, och när slår den rött och ger ett felmeddelande?
 
 ### Factory Pattern
 
